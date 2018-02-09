@@ -2,6 +2,7 @@
   "name": "react-leaflet-firebase-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tumbo.github.io/portland-census-map",
   "dependencies": {
     "d3": "^4.13.0",
     "leaflet": "^1.3.1",
