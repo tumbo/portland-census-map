@@ -1,2 +1,2 @@
-# portland-census-react-leaflet
-Portland Census Data Visualized Spatially with React.js and Leaflet
+# portland-census-map
+Portland Census Map using React.js and Leaflet with Mapbox
